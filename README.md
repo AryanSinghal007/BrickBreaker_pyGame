@@ -12,7 +12,6 @@ With the help of tkinter, I have designed a welcoming window that prompts the us
 
 https://user-images.githubusercontent.com/130309685/235140638-29cffbcc-89f2-4876-a34f-ad23884045f9.mov
 
-Utilizing the pygame module, I orchestrated the entire sequence of events within the game. In accordance with our established system, the next time a user participates, the new high score for the specified level will be set at 11.
-
+Utilizing the pygame module, I orchestrated the entire sequence of events within the game. In accordance with our established system, the next time a user participates, the new high score for the specified level will be set at 11. To enhance the thrill and excitement of the game, I introduced an exciting new feature that dynamically increases the speed of the ball as the user progresses through each level. This adds an element of challenge and keeps the gameplay fresh and engaging.
 
 
